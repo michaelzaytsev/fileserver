@@ -9,7 +9,8 @@
     "build": "tsc",
     "format": "prettier --write \"src/**/*.ts\"",
     "lint": "eslint",
-    "dev": "npm run build && node ./dist/index.js"
+    "dev": "npm run build && node ./dist/index.js",
+    "release": "sh ./release.sh"
   },
   "repository": {
     "type": "git",
