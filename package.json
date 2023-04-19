@@ -1,6 +1,6 @@
 {
   "name": "@michaelzaytsev/fileserver",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "File server for development environments to upload and store files.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
